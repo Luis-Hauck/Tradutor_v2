@@ -15,7 +15,7 @@ Este é um tradutor de áudio e texto feito em Python, que utiliza a biblioteca 
   ```bash
   
   pip install translate
-  pip install speechrecognition
+  pip install SpeechRecognition
   pip install pyttsx3
 ## Como Usar
 

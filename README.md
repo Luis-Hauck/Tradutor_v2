@@ -1,4 +1,4 @@
-# Tradutor de Áudio e Texto
+# Tradutor de Áudio para Texto
 
 Este é um tradutor de áudio e texto feito em Python, que utiliza a biblioteca Translate para tradução de texto, a biblioteca SpeechRecognition para transcrição de áudio e a biblioteca pyttsx3 para síntese de voz.
 
